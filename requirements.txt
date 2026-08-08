@@ -8,4 +8,5 @@ sentence-transformers
 faiss-cpu
 chromadb
 langchain-openai
-load_dotenv
+dotenv
+langchain-google-genai
